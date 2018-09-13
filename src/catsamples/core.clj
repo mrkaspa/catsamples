@@ -1,4 +1,4 @@
- (ns catsamples.core
+(ns catsamples.core
   (:gen-class)
   (:require [cats.core :as m])
   (:require [cats.monad.maybe :as maybe]))
